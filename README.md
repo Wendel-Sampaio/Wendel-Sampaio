@@ -3,7 +3,7 @@
 ## My name is Wendel Soares 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-sampaio-2ab2b8249)](https://www.linkedin.com/in/wendel-sampaio-2ab2b8249)
-[![Outlook Badge](https://img.shields.io/badge/-Outlook-0078D4?style=flat-square&logo=microsoft-outlook&link=mailto:sswendel11@outlook.com)](mailto:sswendel11@outlook.com)
+[![Email Badge](https://img.shields.io/badge/-sswendel11@outlook.com-0078D4?style=flat-square&logo=mailboxdotorg&logoColor=white&link=mailto:sswendel11@outlook.com)](mailto:sswendel11@outlook.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logoColor=white&link=https://www.instagram.com/wendelssoares)](https://www.instagram.com/wendelssoares)
 
 - 🧑‍💻 Software Developer
@@ -13,7 +13,7 @@
 
 <div align="left">
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WendelDoa&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wendel-Sampaio&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
   
 </div>
 
