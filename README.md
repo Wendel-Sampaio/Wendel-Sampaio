@@ -1,6 +1,6 @@
 <h1>Hi Everyone! 👋</h1>
 
-## My name is Wendel Soares 
+## My name is Wendel Sampaio
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-sampaio-2ab2b8249)](https://www.linkedin.com/in/wendel-sampaio-2ab2b8249)
 [![Email Badge](https://img.shields.io/badge/-sswendel11@outlook.com-0078D4?style=flat-square&logo=mailboxdotorg&logoColor=white&link=mailto:sswendel11@outlook.com)](mailto:sswendel11@outlook.com)
