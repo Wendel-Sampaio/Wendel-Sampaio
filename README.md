@@ -2,9 +2,9 @@
 
 ## My name is Wendel Sampaio
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/wendel-sampaio-2ab2b8249)](https://www.linkedin.com/in/wendel-sampaio-2ab2b8249)
-[![Email Badge](https://img.shields.io/badge/-sswendel11@outlook.com-0078D4?style=flat-square&logo=mailboxdotorg&logoColor=white&link=mailto:sswendel11@outlook.com)](mailto:sswendel11@outlook.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logoColor=white&link=https://www.instagram.com/wendelssoares)](https://www.instagram.com/wendelssoares)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendel-sampaio-2ab2b8249)
+[![Email Badge](https://img.shields.io/badge/-sswendel11@outlook.com-0078D4?style=plastic&logo=mailboxdotorg&logoColor=white&link=mailto:sswendel11@outlook.com)](mailto:sswendel11@outlook.com)
+[![Instagram Badge](https://img.shields.io/badge/wendelssoares-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/wendelssoares)](https://www.instagram.com/wendelssoares)
 
 - 🧑‍💻 Software Developer
 - 🎓 Currently studying Computer Science
@@ -19,20 +19,21 @@
 
 ### Technologies and tools 
 
-![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java Badge](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white)
-![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
-![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonWebServices&logoColor=white)
+![Swagger Badge](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
+![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
